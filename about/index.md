@@ -14,7 +14,7 @@ modified: 2016-02-01
 <figure class="half">
 	<a href="/images/intori.jpg"><img src="/images/intori.jpg" /></a>
 	<a href="/images/outtori.png"><img src="/images/outtori.png" /></a>
-	<figcaption><a href="https://twitter.com/rilakkuma_gyr/status/1130246006224883713">キリロイントリ?</a>, <a href="https://twitter.com/korilakkuma_15/status/656424849745825792">キリロウットリ?</a></figure>
+	<figcaption><a href="https://twitter.com/rilakkuma_gyr/status/1130246006224883713">キリロイントリ?</a>、<a href="https://twitter.com/korilakkuma_15/status/656424849745825792">キリロウットリ?</a></figcaption></figure>
 
 ## `/bin/choo`
 

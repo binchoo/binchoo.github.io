@@ -4,7 +4,7 @@ title: "서버 하나에 CTIP을 구성해보자 - 가상머신 하나와 도커
 description: "CTIP 환경 구성"
 tags: [ctip, docker-compose, make]
 image:
-  path: /images/jenkins/architecture.png
+  path: /images/architecture.png
   feature: architecture.png
   credit: binchoo
   creditlink:
@@ -45,4 +45,4 @@ CTIP는 아주 거대한 시스템이 될 수도 있고, 하나의 컴퓨터에�
 
 - Makefile과 도커 컴포즈를 활용한 다수의 젠킨스와 배포서버 쌍 관리
 
-<img src="/images/jenkins/architecture.png" />
+<img src="/images/architecture.png" />

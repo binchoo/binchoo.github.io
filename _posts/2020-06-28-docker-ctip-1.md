@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "서버 하나에 CTIP을 구성해보자 - 가상머신 하나와 도커 컨테이너로 충분"
+title: "서버 하나에 CTIP을 구성해보자 (1)"
 description: "CTIP 환경 구성"
 tags: [ctip, docker-compose, make]
 image:

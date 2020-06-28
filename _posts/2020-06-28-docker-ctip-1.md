@@ -45,4 +45,4 @@ CTIP는 아주 거대한 시스템이 될 수도 있고, 하나의 컴퓨터에�
 
 - Makefile과 도커 컴포즈를 활용한 다수의 젠킨스와 배포서버 쌍 관리
 
-<img src="/images/jenkins/architecture.jpg" />
+<img src="/images/jenkins/architecture.png" />

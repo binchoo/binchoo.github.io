@@ -11,10 +11,13 @@ category: CTIP
 
 ## 개요
 
-![개요](docker-ctip-2-intro.png "개요")
+<figure>
+	<a href="/images/docker-ctip-2-intro.png"><img src="/images/docker-ctip-2-intro.png" /></a>
+	<figcaption>이번 글에서 구성할 젠킨스 + 쥬피터 컨테이너</figcaption>
+</figure>
 
  이번 시간에는 빨간색 테두리로 표시한 부분을 구성합니다.우리는 도커 컴포즈를 통해 젠킨스 컨테이너 + 쥬피터 컨테이너를 한 쌍으로 묶어 관리할 것입니다.
- 
+
 또, Makefile을 작성하여 편리하게 여러 쌍의 인스턴스를 생성/삭제/수정하는 스크립트를 마련해 보려 합니다.
 
 이렇게 생성된 독립된 (젠킨스+배포서버) 쌍은 개별 프로젝트마다 할당해서 사용하면 됩니다.
